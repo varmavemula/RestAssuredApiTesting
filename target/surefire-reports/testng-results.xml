@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-04T16:37:31 IST" name="Suite" finished-at="2025-12-04T16:37:36 IST" duration-ms="5262">
+    <groups>
+    </groups>
+    <test started-at="2025-12-04T16:37:31 IST" name="Test" finished-at="2025-12-04T16:37:36 IST" duration-ms="5262">
+      <class name="oauth.OAuth">
+        <test-method signature="test1()[pri:0, instance:oauth.OAuth@31d7b7bf]" started-at="2025-12-04T16:37:31 IST" name="test1" finished-at="2025-12-04T16:37:35 IST" duration-ms="3943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:oauth.OAuth@31d7b7bf]" started-at="2025-12-04T16:37:35 IST" name="test2" finished-at="2025-12-04T16:37:36 IST" duration-ms="1198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- oauth.OAuth -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
