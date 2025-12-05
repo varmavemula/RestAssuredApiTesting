@@ -1,3 +1,5 @@
+H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\api\maps\pojo\AddPlace.java
+H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\api\maps\pojo\Location.java
 H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\library\DynamicJSON.java
 H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\library\JiraBug.java
 H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\oauth\OAuth.java
@@ -7,3 +9,4 @@ H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\pojo\
 H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\pojo\GetCourse.java
 H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\pojo\Mobile.java
 H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\pojo\WebAutomation.java
+H:\Testing\RestAssured\RestAssuredAutomationPractice\Testing\src\test\java\serialisation\MapsApiSerialisation.java

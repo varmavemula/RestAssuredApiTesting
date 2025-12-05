@@ -5,6 +5,7 @@
     <classes>
      <!--  <class name="library.JiraBug"/> -->
       <class name="oauth.OAuth"/>
+      <class name="serialisation.MapsApiSerialisation"></class>
      <!--  <class name="library.DynamicJSON"/> -->
     </classes>
   </test> <!-- Test -->
