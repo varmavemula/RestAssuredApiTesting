@@ -4,8 +4,11 @@ import org.testng.annotations.Test;
 
 import io.restassured.path.json.JsonPath;
 import pojo.GetCourse;
+import pojo.WebAutomation;
 
 import static io.restassured.RestAssured.*;
+
+import java.util.List;
 
 public class OAuth {
 
@@ -92,5 +95,15 @@ public class OAuth {
 
 		String s = r2.getLinkedIn();
 		System.out.println(s);
+		
+		List<WebAutomation> WA = r2.getCourses().getWebAutomation();
+		
+		for(WebAutomation i: WA ) {
+			System.out.println("------------Courses of WebAutomation--------------");
+			System.out.println("Course title of :" + i.getCourseTitle());
+			System.out.println("--------------------------");
+
+		}
+	
 	}
 }
